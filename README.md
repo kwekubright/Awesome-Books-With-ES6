@@ -2,6 +2,9 @@
 
 - This is a Microverse project that entails a booklist.
 
+## Live Demo
+https://kwekubright.github.io/Awesome-Books-With-ES6/
+
 ## Built With
 
 - HTML, CSS & Javascript
